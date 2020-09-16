@@ -1,16 +1,10 @@
 "Hello World"
+change1 : login feature
+change2 : logout feature
+change3 : change in login feature
+hjdesd
 change made
 change made:fix bug
 change made:bug2 fixed
 submit feature added
 Delete method added
-change1 : login feature
-change2 : logout feature
-change3 : change in login feature
-<<<<<<< Updated upstream
-hjdesd
-
-hjdesd
-=======
-hjdesd
->>>>>>> Stashed changes
