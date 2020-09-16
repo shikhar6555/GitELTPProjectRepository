@@ -1,4 +1,5 @@
 "Hello World"
 change made
 change made:fix bug
+change made:bug2 fixed
 submit feature added
